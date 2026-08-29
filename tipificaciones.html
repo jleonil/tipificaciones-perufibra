@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TIPIFICACIONES PERÚFIBRA</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #d70318;
+            --secondary: #f4b900;
+            --bg-color: #f8f9fa;
+            --text-main: #333333;
+            --text-light: #6c757d;
+            --white: #ffffff;
+            --border: #e9ecef;
+            --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            --radius: 12px;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Inter', sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            line-height: 1.5;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* Header */
+        header {
+            background: var(--white);
+            padding: 24px;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            margin-bottom: 24px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: linear-gradient(90deg, var(--primary) 0%, var(--secondary) 100%);
+        }
+
+        .header-top {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .logo-container {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .logo {
+            height: 60px;
+            object-fit: contain;
+        }
+
+        h1 {
+            color: var(--primary);
+            font-size: 24px;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+        }
+
+        /* Search Bar */
+        .search-container {
+            position: relative;
+            flex: 1;
+            min-width: 300px;
+            max-width: 500px;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 14px 20px 14px 45px;
+            border: 2px solid var(--border);
+            border-radius: 50px;
+            font-size: 15px;
+            outline: none;
+            transition: all 0.3s ease;
+            background: #f8f9fa;
+        }
+
+        .search-input:focus {
+            border-color: var(--secondary);
+            background: var(--white);
+            box-shadow: 0 0 0 4px rgba(244, 185, 0, 0.1);
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 16px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-light);
+            width: 20px;
+            height: 20px;
+        }
+
+        /* Table Container */
+        .table-container {
+            background: var(--white);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            overflow: hidden;
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+        }
+
+        th {
+            background: var(--primary);
+            color: var(--white);
+            font-weight: 600;
+            padding: 16px;
+            font-size: 14px;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+
+        td {
+            padding: 16px;
+            border-bottom: 1px solid var(--border);
+            font-size: 14px;
+            color: var(--text-main);
+            vertical-align: top;
+        }
+
+        tr:last-child td {
+            border-bottom: none;
+        }
+
+        tr {
+            transition: background-color 0.2s ease;
+        }
+
+        tr:hover {
+            background-color: rgba(244, 185, 0, 0.05);
+        }
+
+        /* Category Blocks */
+        .category-block {
+            background: var(--white);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            margin-bottom: 24px;
+            overflow: hidden;
+        }
+
+        .category-header {
+            background: var(--primary);
+            color: var(--white);
+            padding: 16px 20px;
+            font-size: 18px;
+            font-weight: 700;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .category-count {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 600;
+        }
+
+        .table-responsive {
+            width: 100%;
+            overflow-x: auto;
+        }
+
+        /* Tabs */
+        .tabs-container {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 24px;
+            overflow-x: auto;
+            padding-bottom: 4px;
+        }
+
+        .tab-btn {
+            padding: 12px 24px;
+            background: var(--white);
+            border: 2px solid var(--border);
+            border-radius: 50px;
+            font-size: 15px;
+            font-weight: 700;
+            color: var(--text-main);
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            white-space: nowrap;
+        }
+
+        .tab-btn:hover {
+            border-color: var(--secondary);
+            background: rgba(244, 185, 0, 0.05);
+        }
+
+        .tab-btn.active {
+            background: var(--primary);
+            color: var(--white);
+            border-color: var(--primary);
+        }
+
+        .tab-btn.active .tab-count {
+            background: rgba(255, 255, 255, 0.2);
+            color: var(--white);
+        }
+
+        .tab-count {
+            background: #f1f3f5;
+            color: #495057;
+            padding: 2px 10px;
+            border-radius: 20px;
+            font-size: 13px;
+        }
+
+        /* Badges */
+        .badge {
+            display: inline-block;
+            padding: 6px 10px;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 600;
+            background: #f1f3f5;
+            color: #495057;
+        }
+        
+        .badge.cat-instalacion { background: #e3f2fd; color: #0d47a1; }
+        .badge.cat-facturacion { background: #fbe9e7; color: #d84315; }
+        .badge.cat-planes { background: #e8f5e9; color: #1b5e20; }
+        .badge.cat-servicios { background: #f3e5f5; color: #4a148c; }
+        
+        .badge-medio {
+            background: var(--primary);
+            color: var(--white);
+            border-radius: 20px;
+            padding: 4px 10px;
+            font-size: 12px;
+        }
+
+        .highlight {
+            background-color: rgba(244, 185, 0, 0.3);
+            font-weight: bold;
+            color: var(--primary);
+            padding: 0 2px;
+            border-radius: 2px;
+        }
+
+        .stats {
+            padding: 10px 16px;
+            background: var(--white);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            margin-bottom: 16px;
+            font-size: 14px;
+            font-weight: 500;
+            color: var(--text-light);
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .stats-count {
+            background: var(--secondary);
+            color: var(--text-main);
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-weight: 700;
+        }
+
+        @media (max-width: 768px) {
+            .header-top {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            .search-container {
+                max-width: 100%;
+            }
+            td, th {
+                padding: 12px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-top">
+                <div class="logo-container">
+                    <img src="logo_peru_fibra.png" alt="Perú Fibra" class="logo">
+                    <h1>TIPIFICACIONES PERÚFIBRA</h1>
+                </div>
+                <div class="search-container">
+                    <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                    </svg>
+                    <input type="text" id="searchInput" class="search-input" placeholder="Buscar categoría, medio, tipo, motivo...">
+                </div>
+            </div>
+        </header>
+
+        <div class="stats">
+            Mostrando <span id="resultCount" class="stats-count">0</span> tipificaciones
+        </div>
+
+        <div id="contentContainer">
+            <!-- Data will be populated here -->
+        </div>
+    </div>
+
+    <!-- Cargar los datos generados por python -->
+    <script src="data.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const contentContainer = document.getElementById('contentContainer');
+            const searchInput = document.getElementById('searchInput');
+            const resultCount = document.getElementById('resultCount');
+            
+            let currentActiveTab = 'INFORMATIVO';
+
+            // Render table
+            function renderTable(data, query = '') {
+                contentContainer.innerHTML = '';
+                
+                if (data.length === 0) {
+                    contentContainer.innerHTML = '<div class="category-block" style="padding:30px; text-align:center; color:#6c757d;">No se encontraron resultados</div>';
+                    resultCount.textContent = '0';
+                    return;
+                }
+
+                const groups = {
+                    'INFORMATIVO': { items: [] },
+                    'STATUS': { items: [] },
+                    'SOLICITUD': { items: [] },
+                    'PROBLEMAS': { items: [] },
+                    'RETENCIONES ATC': { items: [] }
+                };
+
+                // Agrupar
+                data.forEach(item => {
+                    const grupo = item.grupo ? item.grupo.trim().toUpperCase() : 'OTROS';
+                    
+                    if (grupo === 'RETENCIÓN ATC') {
+                        groups['RETENCIONES ATC'].items.push(item);
+                    } else if (groups[grupo]) {
+                        groups[grupo].items.push(item);
+                    } else {
+                        if (!groups['OTROS']) groups['OTROS'] = { items: [] };
+                        groups['OTROS'].items.push(item);
+                    }
+                });
+
+                // Si la pestaña actual no tiene resultados pero la búsqueda encontró datos en otra, cambiar de pestaña automáticamente
+                let activeGroupHasItems = groups[currentActiveTab] && groups[currentActiveTab].items.length > 0;
+                if (!activeGroupHasItems && data.length > 0) {
+                    for (const [groupName, groupData] of Object.entries(groups)) {
+                        if (groupData.items.length > 0) {
+                            currentActiveTab = groupName;
+                            break;
+                        }
+                    }
+                }
+
+                const totalRendered = data.length;
+                resultCount.textContent = totalRendered;
+
+                const tabsContainer = document.createElement('div');
+                tabsContainer.className = 'tabs-container';
+                
+                Object.keys(groups).forEach(groupName => {
+                    const tabBtn = document.createElement('button');
+                    tabBtn.className = `tab-btn ${groupName === currentActiveTab ? 'active' : ''}`;
+                    tabBtn.innerHTML = `${groupName} <span class="tab-count">${groups[groupName].items.length}</span>`;
+                    tabBtn.onclick = () => {
+                        currentActiveTab = groupName;
+                        renderTable(data, query);
+                    };
+                    tabsContainer.appendChild(tabBtn);
+                });
+
+                contentContainer.appendChild(tabsContainer);
+
+                const groupItems = groups[currentActiveTab] ? groups[currentActiveTab].items : [];
+
+                if (groupItems.length === 0) {
+                    const emptyMsg = document.createElement('div');
+                    emptyMsg.className = 'category-block';
+                    emptyMsg.style = 'padding:30px; text-align:center; color:#6c757d;';
+                    emptyMsg.textContent = 'No hay resultados en esta categoría.';
+                    contentContainer.appendChild(emptyMsg);
+                    return;
+                }
+
+                const block = document.createElement('div');
+                block.className = 'category-block';
+                
+                const tableResp = document.createElement('div');
+                tableResp.className = 'table-responsive';
+                
+                const table = document.createElement('table');
+                table.innerHTML = `
+                    <thead>
+                        <tr>
+                            <th>Categoría</th>
+                            <th>Medio</th>
+                            <th>Tipo</th>
+                            <th>Motivo</th>
+                            <th>Descripción</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                `;
+                
+                const tbody = table.querySelector('tbody');
+                
+                groupItems.forEach(item => {
+                    const tr = document.createElement('tr');
+                    let catClass = '';
+                    const cat = item.categoria ? item.categoria.toLowerCase() : '';
+                    if (cat.includes('instalac')) catClass = 'cat-instalacion';
+                    else if (cat.includes('facturac')) catClass = 'cat-facturacion';
+                    else if (cat.includes('plan')) catClass = 'cat-planes';
+                    else if (cat.includes('servici')) catClass = 'cat-servicios';
+
+                    const hl = (text) => highlight(text, query);
+
+                    tr.innerHTML = `
+                        <td><span class="badge ${catClass}">${hl(item.categoria)}</span></td>
+                        <td><span class="badge-medio">${hl(item.medio)}</span></td>
+                        <td><strong>${hl(item.tipo)}</strong></td>
+                        <td>${hl(item.motivo)}</td>
+                        <td>${hl(item.descripcion)}</td>
+                    `;
+                    tbody.appendChild(tr);
+                });
+                
+                tableResp.appendChild(table);
+                block.appendChild(tableResp);
+                contentContainer.appendChild(block);
+            }
+
+            // Highlight search terms
+            function highlight(text, query) {
+                if (!text) return '';
+                if (!query) return text;
+                
+                // Escape query for regex
+                const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                const regex = new RegExp(`(${escapedQuery})`, 'gi');
+                return text.replace(regex, '<span class="highlight">$1</span>');
+            }
+
+            // Search logic
+            function filterData(query) {
+                const lowerQuery = query.toLowerCase();
+                return tipificaciones.filter(item => {
+                    return (
+                        (item.categoria && item.categoria.toLowerCase().includes(lowerQuery)) ||
+                        (item.medio && item.medio.toLowerCase().includes(lowerQuery)) ||
+                        (item.tipo && item.tipo.toLowerCase().includes(lowerQuery)) ||
+                        (item.motivo && item.motivo.toLowerCase().includes(lowerQuery)) ||
+                        (item.descripcion && item.descripcion.toLowerCase().includes(lowerQuery)) ||
+                        (item.raw && item.raw.toLowerCase().includes(lowerQuery))
+                    );
+                });
+            }
+
+            // Event listener for search
+            searchInput.addEventListener('input', (e) => {
+                const query = e.target.value.trim();
+                const filteredData = filterData(query);
+                renderTable(filteredData, query);
+            });
+
+            // Initial render
+            if (typeof tipificaciones !== 'undefined') {
+                renderTable(tipificaciones);
+            } else {
+                contentContainer.innerHTML = '<div class="category-block" style="padding:30px; text-align:center; color:var(--primary);">Error: data.js no encontrado o vacío. Asegúrate de ejecutar el script de extracción.</div>';
+            }
+        });
+    </script>
+</body>
+</html>

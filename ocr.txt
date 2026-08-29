@@ -1,0 +1,1615 @@
+MEDIO TIPO MOTIVO DESCRIPCIÓN
+INSTALACIÓN
+Informativo Instalación Sobre la instalación Cliente desea conocer documento, horario, tiempo que demora la instalación, técnico que lo visitará, etc
+Informativ Instalación Estado de problemas en la instalación Cuando el cliente consulta sobre un problema durante la instalación.
+Informativo Instalación Sin factibilidad Cuando cliente se comunica para saber por su instalación y se valida que no hay factibilidades técnicas para proceder.
+FACURACION Y 
+COBRANZA
+Informativo Pagos
+Formas de pago-Bancos, Agentes y 
+otros lugares de pagos Cuando desea saber los medios para pagar su recibo.
+Informativo Pagos Afiliación al débito automático Cuando desea saber los pasos para afiliarce al débito automático de su banco.
+Informativo Pagos Prórroga de Pago-Se informa Cuando desea saber si extiste alguna manera para que su pago se extienda o le den alguna facilidad.
+Informativo Recibo
+Importe pendiente de pago-Monto a 
+pagar-Servicio Activo Cuando consulta sobre su deuda pendiente y se valida que el servicio está activo aún.
+Informativo Recibo
+Importe pendiente de pago-Monto a 
+pagar- Servicio suspendido Cuando consulta sobre su deuda pendiente y se valida que el servicio está suspendido por falta de pago.
+Informativo Recibo
+Importe pendiente de pago-Código de 
+pago Cuando pide le puedan brindar su código de pago para que pueda pagar.
+Informativo Recibo Explicación de recibo-Prorrateo Cuando pide que le expliquen su recibo.
+Informativo Recibo Costo de Reconexión Cliente consulta si tenemos cobro por reconexión del servicio por suspensión por deuda
+Informativo Recibo Ciclo de Facturación-Se informa Cuando desea saber los ciclos de facturación.
+PLANES 
+TARIFARIOS
+Informativo Cambio de Plan
+Cómo realizar Upgrade -Requisitos y 
+Procedimiento Cuando cliente, desea saber sobre como subir su plan a uno superior.
+Informativo Cambio de Plan
+Cómo realizar Downgrade-Requisitos y 
+Procedimiento Cuando cliente, desea saber sobre como bajar su plan.
+Informativo
+Producto 
+contratado
+Características de mi plan-Términos y 
+condiciones Cuando cliente, desea saber sobre el plan actual que tiene contratado
+Informativo
+Producto 
+contratado Condiciones del servicio Cliente desea conocer sobre las especificaciones de su servicio como NAT, IP, etc.
+SERVICIOS 
+SOLICITADOS
+Informativo Equipos ONT-Características Cuando cliente, consulta caracteristicas o modelo de ONT
+Informativo Equipos ONT-Cómo solicitar reemplazo Cuando cliente, consulta como puede cambiar su ONT
+Informativo Equipos Recableado-Cómo solicitar recableado Cuando cliente, consulta costo de un recableado y no se concreta la variación.
+Informativo Equipos
+Reubicación-Cómo solicitar 
+reubicación Cuando cliente, consulta costo de reubicación a solicitud y como puede realizar la gestión y no se concreta la variación.
+Informativo Equipos Patch cord-Cómo solicitar patch cord Cuando cliente, consulta costo de pachcord y no se concreta variación.
+Informativo
+Suspensión 
+Temporal
+Cómo solicitar suspensión temporal Requisitos y Procedimiento Cuando cliente, desea saber que se necesita para pedir la suspensión temporal
+ACTUALIZACIÓN 
+DE DATOS
+Informativo
+Actualización de 
+datos
+Cómo actualizo los datos de mi cuenta Requisitos y Procedimiento Cuando el cliente se comunica para solicitar requisitos para actualación de datos
+Informativo
+Actualización de 
+datos
+Cómo realizar cesión 
+contractual_Persona Juridica Requisitos y Procedimiento Cuando el cliente solicita una cesión contractual y se le brinda el procedimiento y se envía la documentación
+Informativo
+Actualización de 
+datos
+Cómo realizar cambio de 
+titularidad_Persona Natural-Requisitos 
+y Procedimiento Cuando el cliente solicita un cambio de titularidad y se le brinda el procedimiento y se envía la documentación
+Informativo Cesión contractual Envio documentos-Rechazado Cuando solicita una cesión contractual y envió documentos, pero se rechaza u observa.
+Informativo
+Cambio de 
+Titularidad Envio documentos-Rechazado Cuando solicita un cambio de titularidad y envió documentos, pero se rechaza u observa.
+VISITA TÉCNICA
+Informativo Visita Técnica
+Visita Técnica-Estado de VT dentro de 
+plazo Cuando cliente, se comunica para saber sobre su Visita técnica pendiente, se valida que está dentro de plazo.
+Informativo Visita Técnica
+Cómo solicitar un traslado-Requisitos y 
+Procedimiento Cuando cliente, desea saber que se necesita para pedir un traslado de servicio
+Informativo Visita Técnica Traslado a Edificios Cliente desea conocer condiciones para realizar un traslado
+Informativo Visita Técnica Traslado a Domicilio Cliente desea conocer condiciones para realizar un traslado
+Informativo Visita Técnica Reubicación de ONT Cliente desea conocer condiciones para realizar un reubicación de ont
+Informativo Visita Técnica Cambio de Patchcord Cliente casea conocer el cambio de patchcord
+Informativo Visita Técnica Cambio de Ont Cliente casea conocer el cambio de ont
+Informativo Visita Técnica Reclableado Cliente desea conocer condiciones para realizar un reclableado
+Informativo Visita Técnica Reinstalación Cliente desea conocer condiciones para realizar un reinstalación
+ATENCIÓN 
+TECNOLÓGICA
+Informativo
+Atención 
+Tecnológica Cambio de contraseña WiFi Cliente desea conocer sobre el proceso de cambio de contraseña
+Informativo
+Atención 
+Tecnológica Cambio de nombre de red WiFi Cliente desea conocer sobre el proceso de cambio de red WiFi
+Informativo
+Atención 
+Tecnológica
+Atención Tecnológica- Estado de AT 
+dentro de plazo Cuando cliente, se comunica para saber sobre su Atención Tecnológica pendiente, se valida que está dentro de plazo.
+Informativo
+Atención 
+Tecnológica
+Atención Tecnológica- Estado de AT 
+fuera de plazo Cuando cliente, se comunica para saber sobre su Atención Tecnológica pendiente, se valida que está fuera de plazo.
+PAGINA WEB
+Informativo Pagina Web Libro de reclamaciones Cuando el cliente, se comunique para solicitar el libro de reclamaciones.
+Informativo Pagina Web Medio de Pagos Cuando el cliente, se comunique para generar consultas sobre los medios de pago en la Web
+Informativo Pagina Web Información usuario abonados
+Informativo Pagina Web Autogestión
+Informativo Pagina Web Preguntas Frecuentes Cuando el cliente, se comunique para generar consultas frecuentes de la pagina Web.
+OTROS
+Informativo Gestión Cliente
+Operativa interna-Devolución de 
+llamada Cuando el asesor, se compromete a llamar al cliente por algún motivo.
+Informativo Pagina Web Speedtest Cuando el cliente consulte o desee validar su velocidad desde speedtest
+Atípico Atípico
+No relacionado a Perú Fibra/Otro 
+operador/empresa Cuando el cliente consulte por otros temas no relacionado a Perú Fibra
+Atípico Atípico Vicio Vicio
+Atípico Atípico Sin consulta / Llamada muda Se equivoca de número o escribe y no tiene consulta.
+Atípico Atípico Insulto Cuando el cliente insulte
+Sugerencia
+Cartera de 
+productos Telefonía Cuando el cliente solicite Telefonía
+Sugerencia
+Cartera de 
+productos Mesh Cuando el cliente solicite Mesh
+Sugerencia
+Cartera de 
+productos Amplificador Cuando el cliente solicite Amplificador
+Sugerencia
+Cartera de 
+productos Cable Cuando el cliente solicite Cable
+Sugerencia
+Cartera de 
+productos TV Digital Cuando el cliente solicite TV Digital
+Sugerencia
+Cartera de 
+productos Apps de Streaming Cuando el cliente solicite Apps de Streaming
+Sugerencia
+Canales de 
+Atención Puntos presenciales Cuando el cliente solicite Canal de Atención Presencial
+Sugerencia
+Canales de 
+Atención Telegram Cuando el cliente solicite Telegram
+Sugerencia
+Canales de 
+Atención Otros Cuando el cliente solicite Otros
+Informativo Promociones Sorteos Cuando el cliente consulta por sorteos
+Informativo Promociones No vigente Cuando el cliente consulta por promos no vigentes
+Informativo Promociones Vigente Cuando el cliente consulta por promos vigentes
+Informativo Promociones Nuevo servicio Cuando el cliente consulta información de servicio nuevo
+RECLAMOS Informativo Reclamo Información de Reclamos Cuando cliente consulte como registrar un reclamo
+RECUPERO DE 
+EQUIPO Informativo Recojo de equipos Informacion de Recojo de equipos Cuando cliente consulte como se genera la devolucion de equipos (Servicio de baja)
+BAJAS Informativo
+Cancelación del 
+Servicio
+Como cancelar todos mis 
+servicio/Procedimiento Cuando cliente consulte el paso a paso de gestionar una baja.
+WELCOME CALL Informativo Welcome Call Conforme con servicio Cuando el cliente reciba la llamada de Welcome Call y no presenta ningun problema
+WIN TV 
+Informativo WIN TV Premium Beneficios Cliente consulta en qué consiste el servicio WIN TV, beneficios y contenido incluido.
+Informativo WIN TV Premium Promoción 6 meses Cliente consulta sobre la promoción de WIN TV Premium gratuito por 6 meses, condiciones y vigencia.
+Informativo WIN TV Premium Inicio de sesión Cliente solicita orientación para acceder a su cuenta WIN TV.
+Informativo WIN TV Premium Dispositivos compatibles Cliente consulta en qué equipos puede utilizar WIN TV.
+Informativo WIN TV Premium Canales Cliente consulta la grilla de canales o contenido disponible en WIN TV Premium.
+INSTALACIÓN Status Instalación Reprogramación del cliente Cuando se comunica para saber sobre el estado de su reprogramación
+Status Instalación Sin facilidades técnicas Cuando cliente se comunica para saber por su instalación y se valida que no hay factibilidades técnicas para proceder.
+PLANES 
+TARIFARIOS
+Status Mis Solicitudes Estado de la solicitud Cambio de plan Downgrade Cuando cliente, desea saber si su cambio de plan se efectuó.
+Status Mis Solicitudes Estado de la solicitud Cambio de plan Upgrade Cuando cliente, desea saber si su cambio de plan se efectuó.
+FACTURACIÓN Y 
+COBRANZA
+Status Recibo Estado de devolución-Pago a 
+otro cliente Cuando se comunica para saber sobre el estado de su solicitud por el pago a otro abonado.
+Status Recibo Estado de devolución-Pago 
+doble Cuando se comunica para saber sobre el estado de su solicitud por el pago doble.
+Status Recibo Estado de devolución-Saldo 
+a favor- Cliente baja Cuando se comunica para saber sobre su solicitud de devolución su saldo a favor y su estado es baja definitiva o suspensión definitiva
+Status Facturación Ajuste por Fidelización Cuando se comunica para saber sobre el ajuste otorgado por fidelización
+Status Facturación Descuento por Fidelización Cuando se comunica para saber sobre el descuento otorgado por fidelización
+Status Facturación Ajuste por Reclamo Fundado Cuando se comunica para saber sobre el ajuste que corresponde según reclamo fundado
+Status Facturación Descuento por Reclamo 
+Fundado Cuando se comunica para saber sobre el descuento que corresponde según reclamo fundado
+Status Facturación Cambio de Dirección en el 
+recibo por error
+Status Facturación Cambio de Dirección en el 
+recibo por traslado
+Status Facturación
+Cambio de Dirección en el 
+recibo sin solicitudes 
+pendientes
+Status Facturación
+Cambio de Titular en el 
+recibo por cesión 
+contractual
+Status Facturación Doble Facturación
+Status Facturación Cobros adicionales no 
+reconocidos
+Status Facturación Nota de crédito
+Status Facturación Prorrateo
+Status Facturación Descuento por Avería 
+Masiva
+Status Facturación Descuento por Suspensión 
+Temporal
+Status Facturación Descuento por Avería
+Status Facturación Afiliación al débito 
+automático
+SERVICIOS 
+SOLICITADOS
+Status Mis solicitudes Estado de la solicitud de 
+reubicación de router Cuando cliente, consulta sobre la reubicación que solicito y se verifica que aún está en proceso (dentro de plazo).
+Status Mis solicitudes Estado de Recableado Cuando cliente, consulta sobre estado de su solicitud de recableado, se valida que está pendiente dentro de plazo.
+Status Mis solicitudes Estado de Traslado a 
+domicilio Cuando cliente, desea saber el estado de su traslado de servicio.
+Status Mis solicitudes Estado de Reinstalación Cuando cliente, desea saber el estado de su traslado de la reinstalación de su servicio.
+Status Mis solicitudes Estado de Traslado a edificio Cuando cliente, desea saber el estado de su traslado de servicio.
+Status Mis solicitudes Estado de cambio de patch 
+cord Cuando cliente, consulta sobre estado de su solicitud de cable Patch Cord, se valida ya entregado.
+Status Mis solicitudes Estado de cambio de router Cuando cliente, consulta sobre estado de su solicitud de router, se valida ya entregado
+Status Mis solicitudes Estado de la solicitud Suspensión Temporal Cuando el cliente, desea saber si su servicio y sé confirmé suspendido temporalmente.
+Status Reactivación Por Pendiente de pago Cuando el cliente, desea saber el estado de la reactivación del servicio por pago realizado
+Status Reactivación Por solicitud de suspensión 
+temporal Cuando el cliente, desea saber el estado de la reactivación APC
+ACTUALIZACIÓN 
+DE DATOS
+Status Actualización de 
+datos
+Cambio de número de 
+teléfono Cliente desea saber el estado de cambio su número de teléfono
+Status Actualización de 
+datos
+Cambio de correo 
+electrónico Cliente desea saber el estado de cambio de su correo electrónico
+Status Actualización de 
+datos Cambio de dirección Cliente desea saber el estado de cambio de su dirección
+Status Mis solicitudes
+Estado de la solicitud de 
+cambio de 
+titularidad_Persona Natural En proceso
+Cuando consulta el estado de su solicitud de cambio de titularidad, se identifica que aun se encuentra en proceso.
+Status Mis solicitudes
+Estado de la solicitud Cesión 
+Contractual_Persona 
+Juridica-En proceso
+Cuando el cliente, consulta el estado de su solicitud de cesión contractual, se identifica que aun se encuentra en proceso dentro de plazo.
+ATENCIÓN 
+TECNOLÓGICA
+Status Atención 
+Tecnológica Cambio de contraseña WiFi Cliente desea saber el estado de cambio de contraseña WiFi
+Status Atención 
+Tecnológica
+Cambio de nombre de red 
+WiFi Cliente desea saber el estado de cambio de nombre de red WiFi
+BAJAS Status Cancelación del 
+Servicio Estado de cancelación total Cuando el cliente ya tenga un registro de baja total y consulte el estado.
+RECUPERO DE 
+EQUIPO Status Recojo de 
+equipos Estado de recojo de equipos Cuando el cliente se comunique consultando el estado de la programación de recojo de equipos
+RECLAMOS
+Status Reclamo Primera Instancia Cliente desea saber el estado de su reclamo
+Status Reclamo Apelación Cliente desea saber el estado de su apelación
+INSTALACIÓN
+Solicitud Instalación Anulación a solicitud 
+del cliente Cuando el cliente, desea anular su instalación.
+Solicitud Instalación Anulación cambio de 
+dirección Cuando el cliente, indica que desea modificar o cambiar la dirección porque se ingresó mal.
+Solicitud Instalación Anulación Cambio de 
+Plan Cuando cliente, desea contratar con otro plan.
+Solicitud Instalación Sin facilidades técnicas Cuando no hay facilidades tecnicas 
+Solicitud Instalación Reprogramación por 
+cliente Cuando el cliente se comunica para poder reprogramar su instalación.
+ACTUALIZACIÓN 
+DE DATOS
+Solicitud Actualización 
+de datos Actualización Telefono Cuando desea cambiar su telefono porque ya no es el mismo que el registrado
+Solicitud Actualización 
+de datos Actualización Correo Cuando desea cambiar su correo porque ya no es el mismo que el registrado
+Solicitud Actualización 
+de datos
+Cambio de Dirección Requisitos y 
+Procedimiento
+Cuando indica que su dirección esta mal registrada y desea cambiarla.
+CAMBIO DE 
+DATOS EN EL 
+SERVICIO 
+Solicitud
+Cambio de 
+Datos en el 
+servicio 
+Cambio de Titularidad A Persona Natural Cuando desea un cambio de titularidad a persona natural
+Solicitud
+Cambio de 
+Datos en el 
+servicio 
+Cambio de Titularidad A Persona Juridica Cuando desea un cambio de titularidad a persona juridica 
+Solicitud
+Cambio de 
+Datos en el 
+servicio 
+Dirección Cuando desea un cambio de dirección
+ATENCIÓN 
+TECNOLÓGICA
+Solicitud Atención 
+Tecnológica
+Cambio de contraseña 
+WiFi Cliente desea saber el estado de cambio de contraseña WiFi
+Solicitud Atención 
+Tecnológica
+Cambio de nombre de 
+red WiFi Cliente desea saber el estado de cambio de nombre de red WiFi
+FACTURACIÓN Y 
+COBRANZA
+Solicitud Facturación Ajuste por Fidelización Cuando se realizara rectificación sobre un monto facturado
+Solicitud Facturación Descuento por 
+Fidelización Cuando se realizara un descuento para proximos emisiones
+Solicitud Facturación Ajuste por Reclamo 
+Fundado Area de Reclamos realiza ajuste
+Solicitud Facturación Descuento por 
+Reclamo Fundado Area de Reclamos realiza descuento
+Solicitud Facturación Cambio de Dirección 
+en el recibo por error Actualización de datos del cliente
+Solicitud Facturación
+Cambio de Dirección 
+en el recibo por 
+traslado
+Actualización de datos del cliente
+Solicitud Facturación
+Cambio de Dirección 
+en el recibo sin 
+solicitudes pendientes
+Actualización de datos del cliente
+Solicitud Facturación
+Cambio de Titular en el 
+recibo por cesión 
+contractual
+Actualización de datos del cliente
+Solicitud Facturación Nota de crédito Cuando se realizara rectificación sobre un monto facturado
+Solicitud Facturación Prorrateo Descuento/Ajuste sobre prorrateo no reconocido
+Solicitud Facturación Descuento por Avería 
+Masiva Descuento por avería masivo
+Solicitud Facturación Descuento por 
+Suspensión Temporal Descuento sobre servicio que conto con suspensión APC
+Solicitud Facturación Descuento por Avería Descuento por avería
+Solicitud Facturación Afiliación al débito 
+automático Cuando solciite afiliación debito automatico
+SERVICIOS 
+SOLICITADOS
+Solicitud Serv. 
+Solicitados Cambio de Patch Cord Cuando cliente, solita el ingreso de la solicitud de reubicación
+Solicitud Serv. 
+Solicitados Cambio de Ont Cuando cliente, solita el ingreso de la solicitud de recableado
+Solicitud Serv. 
+Solicitados Mesh con cableado Cuando cliente, solita el ingreso de la solicitud de traslado a domicilio
+Solicitud Serv. 
+Solicitados Reinstalación Cuando cliente, solita el ingreso de la solicitud de reinstalación
+Solicitud Serv. 
+Solicitados Traslado Cuando cliente, solita el ingreso de la solicitud de traslado a edificio
+Solicitud Serv. 
+Solicitados Reubicación de Ont Cuando cliente, solita el ingreso de la solicitud de patch cord
+Solicitud
+Cambio de 
+Velocidad 
+temporal
+Problemas económicos
+Solicitud
+Cambio de 
+Velocidad 
+temporal
+Problemas personales
+SOLICITUDES Solicitud
+Cambio de 
+Velocidad 
+temporal
+Problemas con el 
+servicio
+Solicitud
+Cambio de 
+Velocidad 
+temporal
+Competencia
+Solicitud
+Cambio de 
+Velocidad 
+temporal
+Viaje/Mudanza
+Solicitud
+Cambio de 
+Velocidad 
+temporal
+Incumplimiento Perú 
+Fibra
+SOLICITUDES
+Solicitud Mis 
+Solicitudes
+Suspensión Temporal 
+apc
+Cuando cliente, solita el ingreso de la solicitud de suspensión APC
+Solicitud Mis 
+Solicitudes
+Ampliación -
+Suspensión Temporal Cuando el cliente solicita ampliación de la suspensión
+REACTIVACIÓN 
+Solicitud Reactivación Por Pendiente de pago Cuando cliente, solita el ingreso de la solicitud de reactivación por deuda
+Solicitud Reactivación Por solicitud de 
+suspensión temporal Cuando cliente, solita el ingreso de la solicitud de reactivación APC
+Solicitud Reactivación Desiste de cancelación 
+del servicio Cuando cliente desiste de cancelar el servicio y desea que reactive
+Solicitud Suspensión 
+Temporal Suspención APC Cuando el cliente solicite suspensión temporal de 15 a 60 dias
+PLANES 
+TARIFARIOS
+Solicitud Cambio de 
+Plan Downgrade Cuando cliente, desea generar cambio Downgrade
+Solicitud Cambio de 
+Plan Upgrade Cuando cliente, desea generar Upgrade
+RECLAMOS
+Solicitud Reclamo Primera Instancia Cliente desea ingresar un reclamo
+Solicitud Reclamo Apelación Cliente desea ingresar una apelación
+BAJAS
+Solicitud Cancelación 
+del Servicio Baja por competencia Cuando cliente solicita baja por oferta de la competencia
+Solicitud Cancelación 
+del Servicio
+Baja por motivos de 
+facturación Cuando cliente solicita baja por disconformidad en los recibos
+Solicitud Cancelación 
+del Servicio
+Baja por motivos 
+económicos Cuando cliente solicita baja por motivos económicos
+Solicitud Cancelación 
+del Servicio
+Baja por problemas 
+con servicio Cuando cliente solicita baja por averias/inconvenientes con el servicio
+Solicitud Cancelación 
+del Servicio
+Baja por 
+mudanza/viaje Cuando cliente solicita baja por mudanza o viaje
+Solicitud Cancelación 
+del Servicio
+Baja por problemas 
+personales Cuando cliente solicita baja por motivos personales
+Solicitud Cancelación 
+del Servicio
+Baja por 
+inclumplimiento Perú 
+Fibra
+Cuando cliente solicita baja por incumplimiento de contrato
+RECUPERO DE 
+EQUIPO Solicitud Recojo de 
+equipos
+Solicitud de recojo de 
+equipos Cuando el cliente se comunica solicitando la programación de recojo de equipos
+WINTV 
+PREMIUM Solicitud
+WIN TV 
+Premium Activación Se activa WIN TV PREMIUM por ofrecimiento de Fidelización 
+ATC
+Problemas 
+con 
+atención
+Atención al 
+cliente Voz Maltratos/Insultos
+Problemas 
+con 
+atención
+Atención al 
+cliente Voz
+No brindo 
+solución y/o 
+información
+Problemas 
+con 
+atención
+Atención al 
+cliente Voz
+No contesta 
+llamada
+Problemas 
+con 
+atención
+Atención al 
+cliente RRSS Maltratos/Insultos
+Problemas 
+con 
+atención
+Atención al 
+cliente RRSS
+No brindo 
+solución y/o 
+información
+Problemas 
+con 
+atención
+Atención al 
+cliente RRSS
+No contesta 
+mensaje/Cierra 
+conversación
+INSTALACIONES
+Problemas 
+con 
+atención Instalación
+Información 
+errónea sobre el 
+servicio 
+contratado
+Problemas 
+con 
+atención Instalación Maltratos/Insultos
+Problemas 
+con 
+atención Instalación
+Solicito datos 
+indebidos
+Problemas 
+con 
+atención Instalación Agresión física
+Problemas 
+con 
+atención Instalación
+No concreto la 
+instalación
+Problemas 
+con 
+atención Instalación
+Daños en el 
+domicilio
+Problemas 
+con 
+atención Instalación
+Accidente del 
+técnico
+Problemas 
+con 
+atención Instalación
+Accidente de un 
+tercero por el 
+técnico
+Problemas 
+con 
+atención Instalación
+Problemas 
+estéticos
+Problemas 
+con 
+atención Instalación
+Invasión de 
+espacios terceros 
+por instalación
+Problemas 
+con 
+servicio Instalación
+Reprogramación 
+del cliente
+Problemas 
+con 
+servicio Instalación
+Sin facilidades 
+técnicas
+VENTAS CAMPO
+Problemas 
+con 
+atención
+Ventas 
+Campo
+Información 
+errónea sobre el 
+servicio 
+contratado
+Problemas 
+con 
+atención
+Ventas 
+Campo Maltratos/Insultos
+Problemas 
+con 
+atención
+Ventas 
+Campo
+Solicito datos 
+indebidos
+Problemas 
+con 
+atención
+Ventas 
+Campo
+Visitas en horarios 
+indebidos
+VENTAS CALL
+Problemas 
+con 
+atención Ventas Voz Maltratos/Insultos
+Problemas 
+con 
+atención Ventas Voz
+Información 
+errónea sobre el 
+servicio 
+contratado
+Problemas 
+con 
+atención Ventas Voz
+No contesta 
+llamada
+Problemas 
+con 
+atención Ventas Voz
+Llamadas 
+constantes
+Problemas 
+con 
+atención Ventas Voz
+Llamadas en 
+horarios 
+indebidos
+VENTAS RRSS
+Problemas 
+con 
+atención Ventas RRSS Maltratos/Insultos
+Problemas 
+con 
+atención Ventas RRSS
+Información 
+errónea sobre el 
+servicio 
+contratado
+Problemas 
+con 
+atención Ventas RRSS
+No contesta 
+mensaje/Cierra 
+conversación
+Problemas 
+con 
+atención Ventas RRSS
+Mensajes 
+constantes
+Problemas 
+con 
+atención Ventas RRSS
+Mensajes en 
+horarios 
+indebidos
+VISITA TÉCNICA
+Problemas 
+con 
+atención
+Visita 
+Técnica
+Información 
+errónea sobre el 
+servicio 
+contratado
+Problemas 
+con 
+atención
+Visita 
+Técnica Maltratos/Insultos
+Problemas 
+con 
+atención
+Visita 
+Técnica
+Solicito datos 
+indebidos
+Problemas 
+con 
+atención
+Visita 
+Técnica Agresión física
+Problemas 
+con 
+atención
+Visita 
+Técnica
+No brindo 
+solución
+Problemas 
+con 
+atención
+Visita 
+Técnica
+Daños en el 
+domicilio
+Problemas 
+con 
+atención
+Visita 
+Técnica
+Accidente del 
+técnico
+Problemas 
+con 
+atención
+Visita 
+Técnica
+Accidente de un 
+tercero por el 
+técnico
+Problemas 
+con 
+atención
+Visita 
+Técnica
+Problemas 
+estéticos
+Problemas 
+con 
+atención
+Visita 
+Técnica
+Invasión de 
+espacios terceros 
+por trabajo
+PLANES 
+TARIFARIOS
+Problemas 
+con 
+servicio
+Cambio de 
+plan Upgrade
+Upgrade no 
+realiza
+Problemas 
+con 
+servicio
+Cambio de 
+plan Downgrade
+Downgrade no 
+realizado
+FACTURACIÓN Y 
+COBRANZA
+Problemas 
+con 
+servicio Facturación
+Ajuste por 
+Fidelización
+Ajuste no 
+realizado
+Problemas 
+con 
+servicio Facturación
+Descuento por 
+Fidelización
+Descuento no 
+realizado
+Problemas 
+con 
+servicio Facturación
+Ajuste por 
+Reclamo Fundado
+Ajuste no 
+realizado
+Problemas 
+con 
+servicio Facturación
+Descuento por 
+Reclamo Fundado
+Descuento no 
+realizado
+Problemas 
+con 
+servicio Facturación
+Cambio de 
+Dirección en el 
+recibo por error
+Error en 
+actualización
+Problemas 
+con 
+servicio Facturación
+Cambio de 
+Dirección en el 
+recibo por 
+traslado
+Error en 
+actualización
+Problemas 
+con 
+servicio Facturación
+Cambio de 
+Dirección en el 
+recibo sin 
+solicitudes 
+pendientes
+Error en 
+actualización
+Problemas 
+con 
+servicio Facturación
+Cambio de Titular 
+en el recibo por 
+cesión contractual
+Error en 
+actualización
+Problemas 
+con 
+servicio Facturación Doble Facturación
+Problemas 
+con 
+servicio Facturación
+Cobros 
+adicionales no 
+reconocidos
+Problemas 
+con 
+servicio Facturación Nota de crédito
+Nota de crédito no 
+realizado
+Problemas 
+con 
+servicio Facturación Prorrateo Error en prorrateo
+Problemas 
+con 
+servicio Facturación
+Descuento por 
+Avería Masiva
+Descuento no 
+realizado
+Problemas 
+con 
+servicio Facturación
+Descuento por 
+Suspensión 
+Temporal
+Descuento no 
+realizado
+Problemas 
+con 
+servicio Facturación
+Descuento por 
+Avería
+Descuento no 
+realizado
+Problemas 
+con 
+servicio Facturación
+Afiliación al 
+débito automático
+Error en afiliación 
+a débito 
+automático
+Problemas 
+con 
+servicio Facturación
+Pago realizado no 
+impacta en 
+sistema-Solicita 
+reconexión
+Cliente se 
+comunica e 
+informa que ya 
+pago, pero el pago 
+aún no se ve 
+registrado en CRM 
+Experiencia y el 
+servicio sigue 
+suspendido. 
+Solicitarle al 
+cliente que brinde 
+detalle del 
+comprobante 
+donde se verifique 
+que el pago fue 
+realizado a Perú 
+Fibra.
+Problemas 
+con 
+servicio Facturación
+Pago realizado 
+impactó en 
+sistema-Solicita 
+reconexión
+Cliente se 
+comunica e 
+informa que ya 
+pago y este ya se 
+ve registrado en 
+CRM Experiencia. 
+Escalar 
+internamente con 
+tu supervisor.
+ATENCIÓN 
+TECNOLÓGICA
+Problemas 
+con 
+servicio
+Internet con 
+cable
+LOS verde -
+Perdida total Configuración 
+accediendo al 
+router
+Cliente indica que 
+tiene los verde en 
+ONT y tiene 
+perdida total de 
+internet por cable. 
+De acuerdo a los 
+descartes 
+realizados se dio 
+la solución 
+mediante 
+configuración 
+Wan, DNS
+Problemas 
+con 
+servicio
+Internet con 
+cable
+LOS verde -
+Perdida total Reinicio de ONT
+Cuando el cliente 
+indica que no 
+tiene internet, 
+según los 
+descartes tiene los 
+verde y se 
+resuelve con un 
+reinicio de ont.
+Problemas 
+con 
+servicio
+Internet con 
+cable
+Sin luces - Perdida 
+total-ONT 
+desenchufada
+Cliente menciona 
+que no tiene luz 
+en su router y no 
+tiene conexión a 
+internet. Al 
+realizar descartes 
+el botón de 
+ON/OFF se 
+encuentra 
+apagado o no se 
+encuentra 
+correctamente 
+enchufado al 
+tomacorriente o 
+este 
+(tomacorriente) se 
+encuentra 
+dañado.
+Problemas 
+con 
+servicio
+Internet con 
+cable
+LOS verde Lentitud -
+Intermitencia Configuración 
+accediendo al 
+router
+Cliente indica que 
+tiene lentitud o 
+intermitencia 
+durante la 
+navegación y de 
+acuerdo a los 
+descartes 
+realizados se 
+solucione con la 
+configuración 
+wan, 
+configuración DNS 
+y otras 
+configuraciones 
+dentro del router.
+Problemas 
+con 
+servicio
+Internet con 
+cable
+LOS verde Lentitud -
+Intermitencia Descartes físicos
+Cliente indica que 
+tiene lentitud o 
+intermitencia 
+durante la 
+navegación y de 
+acuerdo a los 
+descartes 
+realizados se 
+soluciona con 
+descartes físicos 
+del router.
+Problemas 
+con 
+servicio
+Internet con 
+cable
+LOS verde - Ancho 
+de Banda Configuración 
+accediendo al 
+router
+Cliente menciona 
+que tiene una luz 
+verde en su router 
+y no llega el ancho 
+de banda, 
+contratado. Al 
+realizar descartes, 
+se realiza solución 
+con configuración 
+WAN, DNS y 
+configuraciones 
+accediendo al 
+router.
+Problemas 
+con 
+servicio
+Internet con 
+cable
+LOS verde - Ancho 
+de Banda Descartes físicos
+Cliente indica que 
+tiene luz verde en 
+su router y no le 
+llega el ancho de 
+banda. De 
+acuerdo a los 
+descartes 
+realizados se 
+brinda solución 
+con los descarte 
+físicos.
+Problemas 
+con 
+servicio
+Internet con 
+cable
+LOS verde - Ancho 
+de Banda-Corregir 
+velocidad de plan
+Cliente indica que 
+tiene luz verde, e 
+indique que su 
+ancho de banda 
+no es correcto y se 
+detecte que tiene 
+registrado otro 
+plan distinto al 
+que contrató.
+Problemas 
+con 
+servicio
+Conectividad 
+por cable
+Ningún dispositivo 
+conecta
+Cliente menciona 
+que no puede 
+conectar ningun 
+dispositivo de 
+manera cableada
+Problemas 
+con 
+servicio
+Conectividad 
+por cable
+Ciertos 
+dispositivos no 
+conectan
+Cliente menciona 
+que algunos 
+dispositivos no 
+puede conectar de 
+manera cableada
+Problemas 
+con 
+servicio
+Conectividad 
+por cable Lentitud
+Cliente indica que 
+tiene lentitud
+Problemas 
+con 
+servicio
+Conectividad 
+por cable
+Desconexiones 
+aleatorias
+Problemas 
+con 
+servicio
+Conectividad 
+WiFi
+Ciertos 
+dispositivos no 
+conectan
+Cliente menciona 
+que algunos 
+dispositivos no 
+puede conectar 
+por WiFi
+Problemas 
+con 
+servicio
+Conectividad 
+WiFi
+Ningún dispositivo 
+conecta
+Cliente menciona 
+que no puede 
+conectar ningun 
+dispositivo por 
+WiFi
+Problemas 
+con 
+servicio
+Conectividad 
+WiFi
+No aparece 
+ninguna red
+Cliente menciona 
+que no aparece 
+Red WiFi
+Problemas 
+con 
+servicio
+Conectividad 
+WiFi
+No aparece red -
+2.4 Ghz
+Cliente menciona 
+que no aparece 
+Red WiFi 2.4Ghz
+Problemas 
+con 
+servicio
+Conectividad 
+WiFi
+No aparece red -
+5.0 Ghz
+Cliente menciona 
+que no aparece 
+Red WiFi 5.0Ghz
+Problemas 
+con 
+servicio
+Conectividad 
+WiFi
+Lentitud en horas 
+puntuales - 2.4 
+Ghz
+Cliente menciona 
+que hay lentitud 
+en horas 
+puntuales - 2.4 
+Ghz
+Problemas 
+con 
+servicio
+Conectividad 
+WiFi
+Lentitud en horas 
+puntuales - 5.0 
+Ghz
+Cliente menciona 
+que hay lentitud 
+en horas 
+puntuales - 5.0 
+Ghz
+Problemas 
+con 
+servicio
+Conectividad 
+WiFi
+Lentitud todo el 
+tiempo - 2.4 Ghz
+Cliente menciona 
+que hay lentitud 
+con Red 2.4 Ghz
+Problemas 
+con 
+servicio
+Conectividad 
+WiFi
+Lentitud todo el 
+tiempo - 5.0 Ghz
+Cliente menciona 
+que hay lentitud 
+con Red 5.0 Ghz
+Problemas 
+con 
+servicio
+Conectividad 
+WiFi Alcance - 2.4 Ghz
+Problemas 
+con 
+servicio
+Conectividad 
+WiFi Alcance - 5.0 Ghz
+Problemas 
+con 
+servicio Sin conexión Masivo
+Cliente menciona 
+que no cuenta con 
+servicicio de 
+internet y se 
+valida que es falla 
+masiva
+Problemas 
+con 
+servicio Sin conexión LOS rojo en ONT
+Cliente menciona 
+que no cuenta con 
+servicicio de 
+internet Luz Rojo 
+en Router
+Problemas 
+con 
+servicio Sin conexión
+Rotura de Fibra 
+dentro del 
+domicilio
+Cliente menciona 
+que no cuenta con 
+servicicio de 
+internet rotura 
+Fibra dentro del 
+domicilio
+Problemas 
+con 
+servicio Sin conexión
+Rotura de Fibra 
+fuera del 
+domicilio
+Cliente menciona 
+que no cuenta con 
+servicicio de 
+internet rotura 
+Fibra fuera del 
+domicilio
+Problemas 
+con 
+servicio ONT No enciende
+Cliente se 
+comunica e indica 
+que no enciende 
+Router
+Problemas 
+con 
+servicio ONT
+No funciona 
+puerto trasero
+Cliente se 
+comunica e indica 
+que no funciona 
+los puertos
+Problemas 
+con 
+servicio ONT
+Luces no 
+funcionan
+Cliente se 
+comunica e indica 
+que no enciende 
+ninguna luz del 
+Router
+Problemas 
+con 
+servicio ONT Enchufe dañado
+Cliente se 
+comunica e indica 
+que el enchufe 
+esta dañado o no 
+conecta
+Problemas 
+con 
+servicio
+Pagina 
+web/Juegos
+No ingresa a una 
+página puntual
+Problemas 
+con 
+servicio
+Pagina 
+web/Juegos
+No carga un juego 
+instalado
+Problemas 
+con 
+servicio
+Pagina 
+web/Juegos No funciona VPN
+VISITA TÉCNICA
+Problemas 
+con 
+servicio
+Visita 
+Técnica
+Visita Técnica Estado de VT 
+fuera de plazo
+Cuando cliente, se 
+comunica y 
+reporta que ya 
+paso el tiempo de 
+la programación 
+de la visita técnica
+Problemas 
+con 
+servicio
+Visita 
+Técnica
+Visita Técnica Estado de VT 
+fuera de plazo 
+Planta externa
+Cliente informa 
+que tiene un 
+ticket de atención 
+visita técnica 
+(derivado a planta 
+externa) y se 
+encuentra fuera 
+de plazo de 
+atención.
+Problemas 
+con 
+servicio
+Visita 
+Técnica Traslado
+Problemas 
+con 
+servicio
+Visita 
+Técnica
+Reubicación de 
+ONT
+Problemas 
+con 
+servicio
+Visita 
+Técnica
+Cambio de 
+Patchcord
+Problemas 
+con 
+servicio
+Visita 
+Técnica Cambio de Ont
+Problemas 
+con 
+servicio
+Visita 
+Técnica Reclableado
+Problemas 
+con 
+servicio
+Visita 
+Técnica Reinstalación
+RECLAMOS
+Problemas 
+con 
+servicio Reclamo Primera Instancia
+Problemas 
+con 
+servicio Reclamo Apelación
+ACTUALIZACIÓN 
+DE DATOS
+Problemas 
+con 
+servicio
+Actualización 
+de datos
+Cambio de 
+titularidad - A 
+Persona Natural
+Problemas 
+con 
+servicio
+Actualización 
+de datos
+Cambio de 
+titularidad - A 
+Persona Jurídica
+Problemas 
+con 
+servicio
+Actualización 
+de datos
+Número de 
+teléfono
+Problemas 
+con 
+servicio
+Actualización 
+de datos
+Correo 
+electrónico
+Problemas 
+con 
+servicio
+Actualización 
+de datos
+Cambio de 
+contraseña WiFi
+Problemas 
+con 
+servicio
+Actualización 
+de datos
+Cambio de 
+nombre de red 
+WiFi
+Problemas 
+con 
+servicio
+Actualización 
+de datos Dirección
+WINTV 
+PREMIUM
+Problemas 
+con 
+servicio
+WIN TV 
+Premium 
+Sin acceso Capacidad de 
+memoria
+Cliente no puede 
+acceder o utilizar 
+WIN TV debido a 
+que el dispositivo 
+no cuenta con 
+memoria o 
+almacenamiento 
+suficiente.
+Problemas 
+con 
+servicio
+WIN TV 
+Premium 
+Sin acceso-Como 
+configurar TV
+Cliente requiere 
+orientación para 
+configurar su 
+Smart TV y 
+acceder 
+correctamente a 
+WIN TV.
+Problemas 
+con 
+servicio
+WIN TV 
+Premium 
+Sin acceso-Otros 
+dispositivos
+Cliente presenta 
+inconvenientes 
+para acceder a 
+WIN TV desde 
+otros dispositivos 
+Problemas 
+con 
+servicio
+WIN TV 
+Premium TV no compatible
+Cliente consulta o 
+reporta que su 
+televisor no es 
+compatible con la 
+aplicación WIN TV.
+Problemas 
+con 
+servicio
+WIN TV 
+Premium 
+Sin acceso - Portal 
+Win-Clave 
+incorrecta
+Cliente no puede 
+iniciar sesión 
+debido a que la 
+contraseña 
+ingresada es 
+incorrecta.
+Problemas 
+con 
+servicio
+WIN TV 
+Premium 
+Sin acceso - Portal 
+Win-No registrado
+Cliente no puede 
+acceder porque el 
+sistema indica que 
+su usuario o 
+correo no se 
+encuentra 
+registrado en WIN 
+TV.
+Problemas 
+con 
+servicio
+WIN TV 
+Premium 
+Sin acceso - Portal 
+Win-No recibió 
+usuario y 
+contraseña
+Cliente informa 
+que no recibió el 
+correo con las 
+credenciales 
+necesarias para 
+acceder a WIN TV.
+Problemas 
+con 
+servicio
+WIN TV 
+Premium 
+Celular no 
+compatible Información 
+comercial
+Cliente reporta 
+incompatibilidad 
+del equipo.
+Problemas 
+con 
+servicio
+WIN TV 
+Premium 
+Límite de 
+dispositivos Información 
+comercial
+Cliente reporta 
+haber alcanzado el 
+número máximo 
+de dispositivos 
+permitidos para 
+utilizar WIN TV.
+Problemas 
+con 
+servicio
+WIN TV 
+Premium 
+Sin acceso-WIN 
+TV contratado 
+Cliente cuenta con 
+el servicio o 
+beneficio de WIN 
+TV, pero no puede 
+acceder o 
+aprovisionamiento 
+del servicio.
+RETENIDOS
+Cancelación de servicio -Retenido Informativo-Competencia
+BANTEL
+Cancelación de servicio -Retenido Informativo-Competencia BITEL
+Cancelación de servicio -Retenido Informativo-Competencia CLARO
+Cancelación de servicio -Retenido Informativo-Competencia DIRECTV
+Cancelación de servicio -Retenido Informativo-Competencia ENTEL
+Cancelación de servicio -Retenido Informativo-Competencia FIBERPRO
+Cancelación de servicio -Retenido Informativo-Competencia MI FIBRA 
+Cancelación de servicio -Retenido Informativo-Competencia MOVISTAR
+Cancelación de servicio -Retenido Informativo-Competencia NIUBIX
+Cancelación de servicio -Retenido Informativo-Competencia WOW
+Cancelación de servicio -Retenido Informativo-Competencia No menciona/Otra Empresa 
+Cancelación de servicio -Retenido Informativo-Competencia Win Negocios/Empresas 
+Cancelación de servicio -Retenido Informativo-Competencia Igualar Oferta
+Cancelación de servicio -Retenido Informativo-Motivos Economicos No puede pagar el total del recibo
+Cancelación de servicio -Retenido Informativo-Motivos Economicos Solicitud de prorroga de pago
+RETENIDOS Cancelación de servicio -Retenido Informativo-Motivos Economicos Se quedo sin trabajo 
+Cancelación de servicio -Retenido Informativo-Motivos Economicos Cliente en desacuerdo con el costo del plan 
+Cancelación de servicio -Retenido Informativo-Motivos Economicos Renovación del beneficio
+RETENIDOS Cancelación de servicio -Retenido Informativo-Facturación No reconoce el monto 
+Cancelación de servicio -Retenido Informativo-Facturación Error en el cargo Fijo 
+Cancelación de servicio -Retenido Informativo-Facturación Se facturo estando suspendido el servicio
+Cancelación de servicio -Retenido Informativo-Facturación No reconoce cargos por servicios solicitados 
+Cancelación de servicio -Retenido Informativo-Facturación Ajuste/Descuento/Devolución no realizado 
+Cancelación de servicio -Retenido Informativo-Facturación No envió de recibo
+Cancelación de servicio -Retenido Informativo-Facturación Cobro de prorrateo/cuota de instalación 
+Cancelación de servicio -Retenido Informativo-Facturación Demora en emisión de recibo
+RETENIDOS
+Cancelación de servicio -Retenido Informativo-Incumplimiento Perú Fibra 
+Gestión de instalaciones
+Cancelación de servicio -Retenido Informativo-Incumplimiento Perú Fibra Gestión Ventas 
+Cancelación de servicio -Retenido Informativo-Incumplimiento Perú Fibra Gestión ATC
+Cancelación de servicio -Retenido Informativo-Incumplimiento Perú Fibra Gestión Fidelización 
+RETENIDOS
+Cancelación de servicio -Retenido Informativo-Mudanza Viaje 
+Viaje al extranjero Indefinido
+Cancelación de servicio -Retenido Informativo-Mudanza Viaje Viaje dentro del País-sin cobertura
+Cancelación de servicio -Retenido Informativo-Mudanza Viaje Viaje dentro del País-con cobertura
+Cancelación de servicio -Retenido Informativo-Mudanza Viaje Mudanza-sin Cobertura
+Cancelación de servicio -Retenido Informativo-Mudanza Viaje Mudanza-con Cobertura 
+Cancelación de servicio -Retenido Informativo-Mudanza Viaje Mudanza-sin facilidades técnicas 
+Cancelación de servicio -Retenido Informativo-Mudanza Viaje Mudanza-Ya cuenta con Perú Fibra 
+RETENIDOS Cancelación de servicio -Retenido Informativo-Negociación Interrumpida Cliente Corta llamada 
+RETENIDOS
+Cancelación de servicio -Retenido Informativo-Problemas personales Problemas de Salud
+Cancelación de servicio -Retenido Informativo-Problemas personales Problemas Familiares 
+Cancelación de servicio -Retenido Informativo-Problemas personales Problemas personales sin dar detalle
+Cancelación de servicio -Retenido Informativo-Problemas personales Regreso Trabajo Presencial
+Cancelación de servicio -Retenido Informativo-Problemas personales Incendio/Desastre natural
+Cancelación de servicio -Retenido Informativo-Problemas personales Robo
+RETENIDOS
+Cancelación de servicio -Retenido Informativo-Problemas con servicio Lentitud de señal
+Cancelación de servicio -Retenido Informativo-Problemas con servicio Insatisfecho con la velocidad 
+Cancelación de servicio -Retenido Informativo-Problemas con servicio Intermitencia en la señal
+Cancelación de servicio -Retenido Informativo-Problemas con servicio Pérdida total del servicio
+Cancelación de servicio -Retenido Informativo-Problemas con servicio No llega ancho de banda
+Cancelación de servicio -Retenido Informativo-Problemas con servicio Problemas de Wifi 
+Cancelación de servicio -Retenido Informativo-Problemas con servicio Problemas con Juegos/ Latencia 
+Cancelación de servicio -Retenido Informativo-Problemas con servicio Sin acceso a páginas /Aplicaciones externas
+Cancelación de servicio -Retenido Informativo-Problemas con servicio Reincidencia en problema técnico 
